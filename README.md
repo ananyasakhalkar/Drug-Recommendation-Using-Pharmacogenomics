@@ -24,7 +24,7 @@ Traditional drug prescriptions often use a “one-size-fits-all” approach, ign
 - Interpretation of results and limitations
 
 ## Demo
-https://preview--gene-medic-navigator.lovable.app/dashboard
+[Project Demo](https://preview--gene-medic-navigator.lovable.app/dashboard)
 
 ## How to Run
 1. Clone the repo  
